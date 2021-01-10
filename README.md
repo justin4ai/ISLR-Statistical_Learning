@@ -3,7 +3,7 @@ My own organized summation and review for the book ,'An Introduction to Statisti
 
 Contents table is as follows:
 
-<ul>
+<ol>
   <li> Introduction </li>
   <li> Statistical Learning </li>
   <li> Linear Regression </li>
@@ -14,5 +14,5 @@ Contents table is as follows:
   <li> Tree-Based Methods </li>
   <li> Support Vector Machines </li>
   <li> Unsupervised Learning </li>
-</ul>
+</ol>
   
