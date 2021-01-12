@@ -5,7 +5,7 @@ My own organized summation and review for the book ,'An Introduction to Statisti
 Contents table is as follows:
 
 <ol>
-  <li> <strong> Introduction </strong> </li>
+  <li> <strong> <a href="https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction"> Introduction </a> </strong> </li>
   <li> <strong> Statistical Learning </strong> </li>
   <li> <strong> Linear Regression </strong> </li>
   <li> <strong> Classification </strong> </li>
