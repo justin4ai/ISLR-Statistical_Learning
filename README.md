@@ -1,5 +1,5 @@
 # ISLR-Statistical_Learning
-My own organized summation and review for the book ,'An Introduction to Statistical Learning'  *Start : January 12, 2021
+My own organized summation and review for the book ,'An Introduction to Statistical Learning'   *Start : January 12, 2021
 
 Contents table is as follows:
 
