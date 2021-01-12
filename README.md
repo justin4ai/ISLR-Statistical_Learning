@@ -14,4 +14,5 @@ Contents table is as follows:
 7. [Moving Beyond Linearity](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
 8. [Tree-Based Models](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
 9. [Support Vector Machines](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
-10. [Unsupervised Learning](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
+
+* [Unsupervised Learning](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
