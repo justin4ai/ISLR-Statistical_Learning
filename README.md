@@ -5,7 +5,7 @@ My own organized summation and review for the book ,'An Introduction to Statisti
 Contents table is as follows:
 
 
-1. [Introduction](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1.%20Introduction)
+1. [Introduction](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/1%20Introduction)
 2. [Statistical Learning](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/2%20Statistical%20Learning)
 3. [Linear Regression](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/3%20Linear%20Regression)
 4. [Classification](https://github.com/AhnJunYeong0319/ISLR-Statistical_Learning/tree/main/4%20Classification)
