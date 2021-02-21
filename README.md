@@ -1,3 +1,5 @@
+![asdf](https://img.shields.io/badge/R-4.0.2-blue)
+
 # ISLR-Statistical_Learning
 My own organized summation and review for the book ,'An Introduction to Statistical Learning' [(Official website)](https://statlearning.com/).  
 *Start : January 12, 2021
